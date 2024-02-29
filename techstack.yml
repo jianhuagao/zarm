@@ -2,7 +2,7 @@ repo_name: jianhuagao/zarm
 report_id: 8135f14de75013c840dc43cf83723f9d
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-02T06:59:34+00:00'
+timestamp: '2024-02-29T19:51:37+00:00'
 requested_by: jianhuagao
 provider: github
 branch: master
@@ -272,7 +272,7 @@ tools:
   last_updated_by: Jerome Lin
   last_updated_on: 2016-07-13 11:54:06.000000000 Z
 - name: Prettier
-  description: 'Prettier is an opinionated code formatter. '
+  description: Prettier is an opinionated code formatter.
   website_url: https://prettier.io/
   version: 2.2.1
   license: MIT
@@ -286,7 +286,7 @@ tools:
   last_updated_by: Jerome Lin
   last_updated_on: 2021-04-30 03:39:07.000000000 Z
 - name: Sentry
-  description: 'See performance issues, fix errors faster, and optimize code health. '
+  description: See performance issues, fix errors faster, and optimize code health.
   website_url: https://sentry.io/welcome/?utm_source=stackshare&utm_medium=link&utm_campaign=profile
   open_source: true
   hosted_saas: true
